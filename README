@@ -1,0 +1,9 @@
+Python Implementation of the OSEM Algorithm for Medical Reconstruction
+===
+
+Author:
+Yizhuang ZHOU
+
+Usage:
+* Install dependencies using `pip install -r requirements.txt`
+* Excute the demo code using `python main.py`

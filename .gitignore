@@ -1,0 +1,4 @@
+*.raw
+!whole_bone.raw
+*.code*
+__pycache__
